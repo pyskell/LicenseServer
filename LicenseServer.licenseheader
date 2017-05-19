@@ -1,0 +1,15 @@
+﻿extensions: designer.cs generated.cs
+extensions: .cs .cpp .h
+// MIT Licensed. Copyright (c) 2017
+extensions: .aspx .ascx
+<%-- 
+MIT Licensed. Copyright (c) 2017
+--%>
+extensions: .vb
+'MIT Licensed. Copyright (c) 2017
+extensions:  .xml .config .xsd .xaml
+<!--
+MIT Licensed. Copyright (c) 2017
+-->
+extensions: .py
+# MIT Licensed. Copyright (c) 2017
